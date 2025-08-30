@@ -13,7 +13,7 @@ end
 
 
 
-array = "1\n2,-3-4"
-calc = Calculator.new
-add_numbers = calc.add_numbers(array)
-p add_numbers
+# array = "1\n2,-3-4"
+# calc = Calculator.new
+# add_numbers = calc.add_numbers(array)
+# p add_numbers
